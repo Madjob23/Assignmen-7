@@ -23,8 +23,10 @@
 #div1
 {
     border:40px solid;
+    border-radius: 10px;
 }
 #div2
 {
     border: 40px solid;
+    border-radius: 10px;
 }
