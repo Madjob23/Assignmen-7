@@ -1,0 +1,30 @@
+.headerContainer
+{
+    display: flex;
+    justify-content: center;    
+}
+#header
+{
+    text-decoration: underline;
+    font-size: 3em;
+    text-shadow: 2px 2px 3px black;
+}
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.container2
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+#div1
+{
+    border:40px solid;
+}
+#div2
+{
+    border: 40px solid;
+}
